@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eye Care</string>
+    <string name="about">About</string>
+    <string name="about_body"><![CDATA[
+        <a href="http://www.flaticon.com/authors/designerz-bas">Eye Icon</a><br/>
+        <a href=\'https://github.com/makovkastar/FloatingActionButton\'>FloatingActionButton</a>
+    ]]></string>
+</resources>
